@@ -1,0 +1,10 @@
+# Fichiers temporaires R
+.RData
+.Rhistory
+
+# Parametres locaux RStudio
+.Rproj.user/
+
+# Fichiers systeme
+Thumbs.db
+.DS_Store

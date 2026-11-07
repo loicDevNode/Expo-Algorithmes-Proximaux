@@ -1,0 +1,24 @@
+{
+  "files_created": [
+    "00_setup.R",
+    "Exposé_Algorithmes_Proximaux.Rproj",
+    "README.md",
+    "R/03_lasso.R",
+    "R/01_point_proximal.R",
+    "R/05_cas_concret_logements.R",
+    "R/04_visualisations.R",
+    "R/02_gradient_proximal.R",
+    "report/rapport.Rmd",
+    "data/05_donnees_logements.csv"
+  ],
+  "data_rows": 500,
+  "data_columns": [
+    "id_logement",
+    "zone",
+    "superficie_m2",
+    "nombre_chambres",
+    "age_logement_ans",
+    "distance_centre_km",
+    "prix_millions_fcfa"
+  ]
+}
